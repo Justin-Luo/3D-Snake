@@ -1,6 +1,6 @@
 # 3D-Snake
 
-To play the game, open the index html file with Google Chrome. You must run the following command in your terminal to allow Google Chrome to open the texture files.
+To play the game, open the index html file with Google Chrome. You must run the following command in your terminal to open Google Chrome to allow Chrome to open the texture files. Make sure you have fully exited from existing Google Chrome browsers.
 + `open /Applications/Google\ Chrome.app --args --allow-file-access-from-files`
 
 ## Controls
